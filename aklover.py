@@ -411,15 +411,15 @@ logo = ("""\033[1;32m
                                             \033
 __________________×______________________
   
-  Owner   :  JIHAD Azeidin 
+  Owner   :  Sajed Alaredy
  
-  Github   :  1111111111
+  Github   :  0922315694
 
-  Facebook : Jihad Azeidin 
+  Facebook : https://www.facebook.com/profile.php?id=100055300783982 
   
-  Youtube : 11111111111
+  Youtube : 000000000
   
-  Contact : 0919686251
+  Contact : 0922315694
 __________________×______________________\033[1;37m""")
 
 class Main:
