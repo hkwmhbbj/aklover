@@ -411,15 +411,15 @@ logo = ("""\033[1;32m
                                             \033
 __________________×______________________
   
-  Owner   :  Akash Islam
+  Owner   :  JIHAD AZEIDIN 
  
-  Github   :  akash_lover
-
-  Facebook : Hadi Anhaf
+  Github   :  01/للللبيع
   
-  Youtube : Akash Technology
+  Facebook : تعديل بسمك
   
-  Contact : +8801721474011
+  Youtube : 111111111111111
+  
+  Contact : 0919686251
 __________________×______________________\033[1;37m""")
 
 class Main:
