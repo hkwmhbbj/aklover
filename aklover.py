@@ -391,17 +391,9 @@ logo = ("""\033[1;32m
        
   /$$$$$$  /$$                           /$$      
 
- /$$__  $$| $$                          | $$      
-
-| $$  \ $$| $$   /$$  /$$$$$$   /$$$$$$$| $$$$$$$ 
-
-| $$$$$$$$| $$  /$$/ |____  $$ /$$_____/| $$__  $$
-
-| $$__  $$| $$$$$$/   /$$$$$$$|  $$$$$$ | $$  \ $$
-
+ /$$__  $$| $$                          | $$
 | $$  | $$| $$_  $$  /$$__  $$ \____  $$| $$  | $$
-
-| $$  | $$| $$ \  $$|  $$$$$$$ /$$$$$$$/| $$  | $$
+  $$|  $$$$$$$ /$$$$$$$/| $$  | $$
 
 |__/  |__/|__/  \__/ \_______/|_______/ |__/  |__/
 
@@ -411,15 +403,13 @@ logo = ("""\033[1;32m
                                             \033
 __________________×______________________
   
-  Owner   :  Sajed Alaredy
- 
-  Github   :  0922315694
+  Owner   :  Khairy Alkikle
 
-  Facebook : https://www.facebook.com/profile.php?id=100055300783982 
+  Github   :  0914757144
+
+  Facebook : https://www.facebook.com/KHAIRY.ALKIKLE.03 
   
-  Youtube : 000000000
-  
-  Contact : 0922315694
+  Contact : 0914757144
 __________________×______________________\033[1;37m""")
 
 class Main:
@@ -433,8 +423,8 @@ class Main:
 		print("\n [1] File Cloning")
 		print(" [2] Public Cloning")
 		print(" [3] Create File")
-		print(" [4] 2009-10 Cloning")
-		print(" [5] 2011-14 Cloning")
+		print(" [4] 2007-09 Cloning")
+		print(" [5] 2010-15 Cloning")
 		print(" [E] Exit Programming\n")
 		Akash =input(" Choose : ")
 		if Akash in ["1", "01"]:
