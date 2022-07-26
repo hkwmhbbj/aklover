@@ -390,27 +390,16 @@ def follow(ses,coki):
 logo = ("""\033[1;32m
        
   /$$$$$$  /$$                           /$$      
-
- /$$__  $$| $$                          | $$
-| $$  | $$| $$_  $$  /$$__  $$ \____  $$| $$  | $$
-  $$|  $$$$$$$ /$$$$$$$/| $$  | $$
-
-|__/  |__/|__/  \__/ \_______/|_______/ |__/  |__/
-
                                                   
 
                                                   
                                             \033
-__________________×______________________
+×_________________
   
-  Owner   :  Khairy Alkikle
-
-  Github   :  0914757144
-
-  Facebook : https://www.facebook.com/KHAIRY.ALKIKLE.03 
-  
-  Contact : 0914757144
-__________________×______________________\033[1;37m""")
+  Owner   :  Khairy Salah
+  Facebook : https://www.facebook.com/akal.kqpq
+  Contact : 111111111111
+×_________________\033[1;37m""")
 
 class Main:
 	def __init__(self):
